@@ -6,7 +6,7 @@
 
 ## Project Description
 
-This is a task board created to relearn how to use git and linux. Updates to come.
+App to allow teams to collaborate on projects and communicate.
 
 ---
 
